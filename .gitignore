@@ -1,0 +1,11 @@
+node_modules
+.env
+
+artifacts
+cache
+deployments
+coverage
+coverage.json
+typechain
+staging-process.txt
+.vscode
